@@ -1,5 +1,7 @@
-# luvit-docs for [Luvit 2.0](http://luvit.io)
+# luvit-docs for [Luvit 2.0](http://luvit.io) (unofficial)
 
-### **[Click here to view the documentation wiki](Wiki).**
+[[ https://raw.githubusercontent.com/develephant/luvit-docs/master/img/logo-white.png | height = 80px ]]
+
+### **[Click here to view the documentation wiki](https://github.com/develephant/luvit-docs/wiki).**
 
 
