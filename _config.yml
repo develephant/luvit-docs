@@ -1,0 +1,4 @@
+timezone: America/Chicago
+kramdown:
+  input: GFM
+ 
